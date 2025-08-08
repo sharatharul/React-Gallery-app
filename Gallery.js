@@ -1,4 +1,3 @@
-// src/Gallery.js
 import React from "react";
 import "./index.css";
 
@@ -16,3 +15,4 @@ const Gallery = ({ images }) => {
 };
 
 export default Gallery;
+
