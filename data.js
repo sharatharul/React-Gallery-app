@@ -1,4 +1,3 @@
-// src/data.js
 const images = [
   {
     id: 1,
@@ -28,3 +27,4 @@ const images = [
 ];
 
 export default images;
+
